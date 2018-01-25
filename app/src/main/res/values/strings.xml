@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EMS</string>
+    <string name="hospital_wide">全院</string>
+    <string name="hospital_list">列表</string>
+    <string name="hospital_setting">设置</string>
+    <string name="temperature">温度：</string>
+    <string name="temperature_profile">温度曲线</string>
+    <string name="humidity">湿度：</string>
+    <string name="humidity_profile">湿度曲线</string>
+    <string name="pressure">压力：</string>
+    <string name="pressure_profile">压力曲线</string>
+    <string name="pressure_difference">压力差：</string>
+    <string name="ousr">机组运行状态：</string>
+    <string name="energy_meter">节能电表：</string>
+    <string name="energy_meter_profile">电表曲线</string>
+    <string name="waring">报警</string>
+    <string name="back">返回</string>
+    <string name="confirm">确定</string>
+    <string name="time">时间</string>
+    <string name="No.">号</string>
+    <string name="history">历史</string>
+</resources>
